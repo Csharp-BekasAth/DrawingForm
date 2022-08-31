@@ -1,0 +1,78 @@
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.exe
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.deps.json
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.runtimeconfig.json
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.runtimeconfig.dev.json
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\ref\DrawingForm.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.pdb
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.AssemblyReference.cache
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.Form1.resources
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.GenerateResource.cache
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.AssemblyInfoInputs.cache
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.AssemblyInfo.cs
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.dll
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\ref\DrawingForm.dll
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.pdb
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.genruntimeconfig.cache
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\Dapper.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.CopyComplete
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.exe
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.deps.json
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.runtimeconfig.json
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.runtimeconfig.dev.json
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\ref\DrawingForm.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.pdb
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.AssemblyReference.cache
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.Form1.resources
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.GenerateResource.cache
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.AssemblyInfoInputs.cache
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.AssemblyInfo.cs
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.CoreCompileInputs.cache
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.CopyComplete
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\ref\DrawingForm.dll
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.pdb
+C:\Users\bekas\Desktop\Projects\VisualStudio\Draw\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.genruntimeconfig.cache
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.exe
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.deps.json
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.runtimeconfig.json
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.runtimeconfig.dev.json
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\DrawingForm.pdb
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\Dapper.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.AssemblyReference.cache
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.Form1.resources
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.GenerateResource.cache
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.AssemblyInfoInputs.cache
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.AssemblyInfo.cs
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.CoreCompileInputs.cache
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.csproj.CopyComplete
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\refint\DrawingForm.dll
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.pdb
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\DrawingForm.genruntimeconfig.cache
+D:\Development\0.Projects\0.C#\DrawingForm\DrawingForm\obj\Debug\net5.0-windows\ref\DrawingForm.dll
